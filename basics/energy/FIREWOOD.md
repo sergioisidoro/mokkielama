@@ -5,17 +5,41 @@
 Fire is a chemical chain reaction between a fuel and an oxidizer (usually
 oxygen in the air).
 
-For this reaction to initiate the fuel needs to be heated until the "flash point",
-the temperature at which the reaction initiates. This is usually done by using
-another flame, such as a match or a lighter, but there are alternative methods.
+For this reaction to initiate, fuel needs to be heated until the "flash point",
+the temperature at which the reaction initiates. This is usually done with
+another flame, such as a match or a lighter.
 
-After that, the reaction needs to generate enough heat (and keep it) to ignite
-the surrounding fuel, have enough oxygen, and have enough fuel. This is
+After the initial ignition, the reaction needs to generate enough heat
+to ignite the surrounding fuel, have enough oxygen, and have enough fuel. This is
 not always an easy balance to achieve.
 
-In most stoves, fireplaces and bonfires increasing the amount of oxygen means
-opening air intakes, or spread logs apart to allow air circulation. But means
-temperature will drop due to the passing cold air.  
+#### Too much air
+More air is usually good. It usually means accelerated combustion, faster fuel
+burn and more heat generation. In most stoves, fireplaces and bonfires increasing
+the amount of oxygen means opening air intakes, or spread logs apart to allow air
+circulation.
+
+However, if there is too much airflow, temperature will drop due to the passing cold air.
+Especially if the area is cold, like when you first arrive to the cottage on a cold day.
+The excess airflow will cool down the wood, and put out the fire, very much like blowing
+out a candle.
+
+#### Too much fuel
+Adding lots of wood makes sure there is enough fuel, and heat will likely be
+well kept within the logs. However this comes to the cost of having insufficient
+airflow. Too much fuel will likely result in insufficient oxygen for the
+combustion to be sustained.
+
+#### Fuel moisture and temperature
+As mentioned before, wood needs to reach the flash point to burn. Everything that
+makes this harder is a problem for starting and sustaining a fire.
+If the wood is cold, or the area has significant a cold mass (like cold water
+in water boilers), making the wood reach the flash point will be harder.
+
+Another factor is wood moisture. If the wood has high moisture content, and
+since water does not burn, all water needs to be heated and evaporated
+before the wood can ignite. If you combine high moisture content and
+low temperatures, you will likely struggle at starting and maintain a fire
 
 **Note Carbon Dioxide (C02) and Carbon Monoxide (CO)**
 Whenever fire burns with insufficient oxygen it produces carbon monoxide,
@@ -40,13 +64,13 @@ The following three tree species, the most common in Finnish forests,
 have the following heat content per kilo, and density. This translates in different
 amounts of energy per kilo (effort of carrying) and storage space.
 
-| Tree Species  | Scientific name          | Densitiy  |Energy (bark)<sup>1</sup>|Energy (Stem)<sup>1</sup>| Energy(Stem+Bark)<sup>1</sup>|  MJ/ m3 stacked wood <sup>2</sup>|
-| ------------- | ------------------------ | --------- | ---------------         | --------------          | -------------------          | --------------------             |
-| Pine          | Pinus Silvestris         | 510 kg/m3 |     19.53               |    19.31                |        19.33                 |     4896 – 5652                  |
-| Spruce        | Picea abies              | 430 kg/m3 |     19.02               |    19.05                |        19.02                 |     4680 – 4752                  |
-| Birch         | Betula pendula/pubescens | 670 kg/m3 |  22.52 / 22.27          | 18.61 / 18.68           |    19.15 / 19.19             |     6120 – 6516                  |
+| Tree Species  | Scientific name          | Densitiy  |Energy (bark)<sup>1</sup>|Energy (Stem)<sup>1</sup>| Energy (Stem+Bark)<sup>1</sup>|  Stacked wood <sup>2</sup>|
+| ------------- | ------------------------ | --------- | ---------------         | --------------          | -------------------           | --------------------      |
+| Pine          | Pinus Silvestris         | 510 kg/m3 |     19.53 MJ/Kg         |    19.31  MJ/Kg         |        19.33     MJ/Kg        |     4896 – 5652 MJ/m3     |
+| Spruce        | Picea abies              | 430 kg/m3 |     19.02 MJ/kg         |    19.05  MJ/Kg         |        19.02     MJ/Kg        |     4680 – 4752 MJ/m3     |
+| Birch         | Betula pendula/pubescens | 670 kg/m3 |  22.52 / 22.27  MJ/Kg   | 18.61 / 18.68 MJ/Kg     |    19.15 / 19.19 MJ/Kg        |     6120 – 6516 MJ/m3     |
 
-<sup>1</sup> [Source](http://www.woodenergy.ie/woodasafuel/listandvaluesofwoodfuelparameters-part2/)
+<sup>1</sup> [Source](http://www.woodenergy.ie/woodasafuel/listandvaluesofwoodfuelparameters-part2/)  
 <sup>2</sup> [Source - Manual for Firewood production]()
 
 Birch, being extremely common, is only beaten by Ash trees, Beech, Oak and Robia tress
@@ -70,7 +94,6 @@ The ideal water content of wood for burning is bellow 20%, or ideally bellow
 **You can get up to 15% more heat when burning correctly dried wood.**
 That translates into 15% less cutting trees, 15% less chopping and transporting
 wood.
-
 
 Another downside of burning moist wood, is smoldering (wood burning slowly
 with smoke but no flame). This leads to accumulation of flammable residue in
@@ -151,7 +174,7 @@ pile of wood has 68% more wood than a loose pile of the same volume.
 
 If you are letting your logs dry in a covered area, and space is a restriction,
 then **yes**. However, **so far we have not found significant information regarding
-drying effectiveness of stacking vs lose piles of wood** [Research needed]. 
+drying effectiveness of stacking vs lose piles of wood** [Research needed].
 
 ##### Elevation.
 The storage of wood should be elevated from the ground. This prevents
@@ -160,10 +183,6 @@ circulation under the woodpile, and to prevent rainwater to pool and soak
 the pile.
 
 Elevation can be achieved, for example, using wood pallets
-
-
-
-
 
 ## Chopping wood
 
