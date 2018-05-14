@@ -14,19 +14,17 @@ to ignite the surrounding fuel, have enough oxygen, and have enough fuel. This i
 not always an easy balance to achieve.
 
 #### Too much air
-More air is usually good. It usually means accelerated combustion, faster fuel
+More air is usually good and means accelerated combustion, faster fuel
 burn and more heat generation. In most stoves, fireplaces and bonfires increasing
 the amount of oxygen means opening air intakes, or spread logs apart to allow air
 circulation.
 
-However, if there is too much airflow, temperature will drop due to the passing cold air.
-Especially if the area is cold, like when you first arrive to the cottage on a cold day.
-The excess airflow will cool down the wood, and put out the fire, very much like blowing
-out a candle.
+However, if there is too much airflow, temperature will drop due to the passing cold air - Especially if the area is cold, like when you first arrive to the cottage on a cold day.
+The excess airflow will cool down the wood, and put out the fire, very much like blowing out a candle.
 
 #### Too much fuel
 Adding lots of wood makes sure there is enough fuel, and heat will likely be
-well kept within the logs. However this comes to the cost of having insufficient
+well kept in between the logs. However this comes at the cost of having insufficient
 airflow. Too much fuel will likely result in insufficient oxygen for the
 combustion to be sustained.
 
@@ -34,7 +32,7 @@ combustion to be sustained.
 As mentioned before, wood needs to reach the flash point to burn. Everything that
 makes this harder is a problem for starting and sustaining a fire.
 If the wood is cold, or the area has significant a cold mass (like cold water
-in water boilers), making the wood reach the flash point will be harder.
+in water boilers), it's going to be harder for the the wood to reach the flash point.
 
 Another factor is wood moisture. If the wood has high moisture content, and
 since water does not burn, all water needs to be heated and evaporated
@@ -51,18 +49,16 @@ Any fires burning in living spaces should be monitored.
 ## Starting a Fire
 
 ### Tepee
-
+*To do*
 ### Log Cabin
-
+*To do*
 ### Lean to
-
+*To do*
 
 ## Choosing Firewood and Tree species
 
 ### Type of wood
-The following three tree species, the most common in Finnish forests,
-have the following heat content per kilo, and density. This translates in different
-amounts of energy per kilo (effort of carrying) and storage space.
+The three most common in Finnish trees have the following heat content per kilo, and density. This translates in different amounts of energy per kilo (effort of carrying) and storage space.
 
 | Tree Species  | Scientific name          | Densitiy  |Energy (bark)<sup>1</sup>|Energy (Stem)<sup>1</sup>| Energy (Stem+Bark)<sup>1</sup>|  Stacked wood <sup>2</sup>|
 | ------------- | ------------------------ | --------- | ---------------         | --------------          | -------------------           | --------------------      |
@@ -73,10 +69,8 @@ amounts of energy per kilo (effort of carrying) and storage space.
 <sup>1</sup> [Source](http://www.woodenergy.ie/woodasafuel/listandvaluesofwoodfuelparameters-part2/)  
 <sup>2</sup> [Source - Manual for Firewood production]()
 
-Birch, being extremely common, is only beaten by Ash trees, Beech, Oak and Robia tress
-in terms of heat content. This makes birch the obvious choice for most people
-in Finland, depending on the regional forest composition. But both Pine and Spruce
-are reasonable for energy production.
+Birch, being extremely common, is only beaten by Ash trees, Beech, Oak and Robia tress in terms of heat content. This makes birch the obvious choice for most people
+in Finland, depending on the regional forest composition. But both Pine and Spruce have reasonable energy content and are suitable for use for firewood.
 
 ### Moisture content
 Moisture is obviously an enemy for igniting wood, but it also presents a major
@@ -104,7 +98,7 @@ See how to properly dry and store wood bellow.
 ## Cutting down a Tree
 
 ### Timing & drying
-As we seen before, moisture content is a major problem when it comes to firewood.
+As we've seen before, moisture content is a major problem when it comes to firewood.
 
 So we want to time the cutting down trees so that we minimize their time of drying.
 This means considering the following factors:
@@ -166,21 +160,21 @@ You can tell if wood is appropriately dry if:
 #### Dry Storage
 
 ##### Stacking vs Piling
-First things first. Is it really worth the effort to neatly stacking
-wood? and if yes, how worth is it?
+Is it really worth the effort to neatly stacking wood? and if yes, how worth is it?
 
 According to the [Manual for Firewood production](), a neatly packed
 pile of wood has 68% more wood than a loose pile of the same volume.
 
 If you are letting your logs dry in a covered area, and space is a restriction,
-then **yes**. However, **so far we have not found significant information regarding
-drying effectiveness of stacking vs lose piles of wood** [Research needed].
+then **yes**.
+
+**So far we have not found significant information regarding
+drying effectiveness of stacking vs lose piles of wood**
 
 ##### Elevation.
 The storage of wood should be elevated from the ground. This prevents
-the moisture from the ground to rise to the woodpile, enhances air
-circulation under the woodpile, and to prevent rainwater to pool and soak
-the pile.
+the moisture from the ground to rise, enhances air
+circulation under the woodpile, and to prevent rainwater to pool around it.
 
 Elevation can be achieved, for example, using wood pallets
 
