@@ -1,8 +1,3 @@
-# Mökki Elämä for foreigners
-
-  current progress: ◼▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ 0%
-# [Introduction](INTRO.md)
-
 # [Basics]()  
 #### [Structure]()
 #### [Water]()
