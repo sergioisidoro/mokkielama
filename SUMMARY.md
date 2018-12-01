@@ -1,57 +1,40 @@
-# [Basics]()  
-#### [Structure]()
-#### [Water]()
-[]()
-#### [Energy and Fire]()
-[]()
-#### [Health and Safety]()
-[]()
+# Summary
 
-# [Food]()
-#### [Fishing]()
-[Bank fishing]()  
-[Casting and Trailing]()  
-[Net fishing]()  
-[Fly fishing]()  
-[Crayfish traps]()  
+## Basics
+* [Basics]()  
+  * [Structure]()
+  * [Water]()
+  * [Energy and Fire]()
+  * [Health and Safety]()
 
-#### [Hunting]()
-[]()
+## Food
+* [Food]()
+  * [Fishing]()
+    * [Bank fishing]()  
+    * [Casting and Trailing]()  
+    * [Net fishing]()  
+    * [Fly fishing]()  
+    * [Crayfish traps]()  
+* [Hunting]()
+  * []()
 
-#### [Gathering]()
-[Berry picking]()  
-[Mushroom picking]()  
-[Wild Tree resources]()
+* [Gathering]()
+  * [Berry picking]()  
+  * [Mushroom picking]()  
+  * [Wild Tree resources]()
 
-## [Maintenance]()
-[]()
+## Maintenance
+* [Maintenance]()
+  * [Summer]()
+  * [Autumn]()
+  * [Winter]()
+  * [Spring]()
 
-#### [Summer]()
-[]()
+## Culture and leisure 
 
-#### [Autumn]()
-[]()
-
-#### [Winter]()
-[]()
-
-#### [Spring]()
-[]()
-
-## [Boating]()
-[Wood Boat]()  
-[Fiberglass Boats]()
-
-#### [Specifics]()
-[Row Boating]()  
-[Motor Boats]()  
-[Sailing Boats]()  
-
-## [Culture]()
-[Sauna]()  
-[Juhannus]()
-[Games]()
-
-## [Fauna and Flora]
-### Birds
-[Bird houses]()
+* [Culture]()
+  * [Boating]()
+  * [Sauna]()  
+  * [Juhannus]()
+  * [Games]()
+  * [Fauna and Flora]
