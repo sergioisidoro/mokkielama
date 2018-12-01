@@ -2,7 +2,7 @@
 # Firewood
 
 ## Basics of combustion
-Fire is a chemical chain reaction between a fuel and an oxidizer (usually
+Fire is a chemical chain reaction between a fuel and an oxidiser (usually
 oxygen in the air).
 
 For this reaction to initiate, fuel needs to be heated until the "flash point",
@@ -41,7 +41,7 @@ low temperatures, you will likely struggle at starting and maintain a fire
 
 **Note Carbon Dioxide (C02) and Carbon Monoxide (CO)**
 Whenever fire burns with insufficient oxygen it produces carbon monoxide,
-instead of the usual carbon dioxide. Carbon monoxide is odorless (it might
+instead of the usual carbon dioxide. Carbon monoxide is odourless (it might
 not smell like smoke) and is toxic to animals, including humans.
 Any fires burning in living spaces should be monitored.
 
@@ -60,7 +60,7 @@ Any fires burning in living spaces should be monitored.
 ### Type of wood
 The three most common in Finnish trees have the following heat content per kilo, and density. This translates in different amounts of energy per kilo (effort of carrying) and storage space.
 
-| Tree Species  | Scientific name          | Densitiy  |Energy (bark)<sup>1</sup>|Energy (Stem)<sup>1</sup>| Energy (Stem+Bark)<sup>1</sup>|  Stacked wood <sup>2</sup>|
+| Tree Species  | Scientific name          | Density  |Energy (bark)<sup>1</sup>|Energy (Stem)<sup>1</sup>| Energy (Stem+Bark)<sup>1</sup>|  Stacked wood <sup>2</sup>|
 | ------------- | ------------------------ | --------- | ---------------         | --------------          | -------------------           | --------------------      |
 | Pine          | Pinus Silvestris         | 510 kg/m3 |     19.53 MJ/Kg         |    19.31  MJ/Kg         |        19.33     MJ/Kg        |     4896 – 5652 MJ/m3     |
 | Spruce        | Picea abies              | 430 kg/m3 |     19.02 MJ/kg         |    19.05  MJ/Kg         |        19.02     MJ/Kg        |     4680 – 4752 MJ/m3     |
@@ -89,7 +89,7 @@ The ideal water content of wood for burning is bellow 20%, or ideally bellow
 That translates into 15% less cutting trees, 15% less chopping and transporting
 wood.
 
-Another downside of burning moist wood, is smoldering (wood burning slowly
+Another downside of burning moist wood, is smouldering (wood burning slowly
 with smoke but no flame). This leads to accumulation of flammable residue in
 the chimneys, that in worst case scenario can lead to a chimney fire
 
@@ -100,7 +100,7 @@ See how to properly dry and store wood bellow.
 ### Timing & drying
 As we've seen before, moisture content is a major problem when it comes to firewood.
 
-So we want to time the cutting down trees so that we minimize their time of drying.
+So we want to time the cutting down trees so that we minimise their time of drying.
 This means considering the following factors:
 
 * Choose a time when the tree has the least amount of water when cut down
@@ -142,7 +142,7 @@ will absorb rainwater, which will slowdown or even revert the drying process.
 On the other hand, if sheltered too much, the covers can restrict the airflow and
 be equally counterproductive.
 
-Given these factors, and since maximizing the surface area is the fastest way
+Given these factors, and since maximising the surface area is the fastest way
 to dry firewood, it is recommended to follow the winter harvest method,
 chop the wood into it's final shape in early spring, and store them in an
 appropriate location (see Storage), sheltered from weather.
@@ -154,7 +154,7 @@ logs to shorter length might be sufficient for the following year's batch.
 You can tell if wood is appropriately dry if:
 * There are cracks at the ends of the chopped wood pieces
 * The wood is significantly lighter
-* Ignites easily, and does not smolder (smoke but no fire)
+* Ignites easily, and does not smoulder (smoke but no fire)
 
 
 #### Dry Storage

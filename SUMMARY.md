@@ -7,7 +7,7 @@
   * [Energy and Fire]()
   * [Health and Safety]()
 
-## Food
+<!-- ## Food
 * [Food]()
   * [Fishing]()
     * [Bank fishing]()  
@@ -37,4 +37,4 @@
   * [Sauna]()  
   * [Juhannus]()
   * [Games]()
-  * [Fauna and Flora]
+  * [Fauna and Flora] -->
