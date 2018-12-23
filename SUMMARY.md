@@ -7,7 +7,7 @@
   * [Energy and Fire]()
   * [Health and Safety]()
 
-<!-- ## Food
+## Food
 * [Food]()
   * [Fishing]()
     * [Bank fishing]()  
@@ -15,8 +15,8 @@
     * [Net fishing]()  
     * [Fly fishing]()  
     * [Crayfish traps]()  
+
 * [Hunting]()
-  * []()
 
 * [Gathering]()
   * [Berry picking]()  
@@ -37,4 +37,4 @@
   * [Sauna]()  
   * [Juhannus]()
   * [Games]()
-  * [Fauna and Flora] -->
+  * [Fauna and Flora]()
