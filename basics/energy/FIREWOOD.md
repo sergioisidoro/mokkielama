@@ -107,7 +107,7 @@ This means considering the following factors:
 * Maximise the amount of summer months the wood will have to dry
 * Use the tree leaves to evaporate moisture if impossible to cut the tree in appropriate schedule
 
-![Moisture content](../../media/images/energy/moisture_content_year.png)
+![Moisture content](../../media/images/basics/energy/moisture_content_year.png)
 
 The moisture content of deciduous trees (trees that shed leaves annually, like birch) peaks from April and May. These are the months after the snow has melted and the trees prepare for the rapid growth in spring. **We want to avoid these months most of all.** Note that evergreen trees differ less in moisture content throughout the year.
 
@@ -135,7 +135,7 @@ as the high content in moisture and low exposure will foster the growth of fungi
 and other rotting agents. Decomposition will already be visible in the second summer
 after the tree has been harvested.
 
-![Log decomposition](../../media/images/energy/log_decomposition.jpg)
+![Log decomposition](../../media/images/basics/energy/log_decomposition.jpg)
 
 **The second factor is weather and rain.** If not sheltered appropriately logs
 will absorb rainwater, which will slowdown or even revert the drying process.
