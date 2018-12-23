@@ -38,3 +38,5 @@
   * [Juhannus]()
   * [Games]()
   * [Fauna and Flora]()
+  * [Winter]()
+    * [Ice lanterns](./culture/winter/ICE_LANTERNS.md)
