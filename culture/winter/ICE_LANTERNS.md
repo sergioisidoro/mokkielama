@@ -32,40 +32,41 @@ After the desired height has been achieved place candles inside the lantern
 The easiest way to make an Ice lantern is to use 2 buckets, a large and smaller one. This takes the timing
 out of the equasion, and is less likely to result in failure.
 
-- Find a Large and a small bucket, ducktape, and of course water. Remove paper labels of containers before freezing, and use metal containers for faster freezing and facilitating the use of heat to remove the ice from the containers.
+1. Find a Large and a small bucket, ducktape, and of course water. Remove paper labels of containers before freezing, and use metal containers for faster freezing and facilitating the use of heat to remove the ice from the containers.
 
-  <img src="../../media/images/culture/ice-lanterns/materials.jpg" width="333" />
+    <img src="../../media/images/culture/ice-lanterns/materials.jpg" width="333" />
 
-- Fill the larger bucket with water up to 2/3rds. 
+2. Fill the larger bucket with water up to 2/3rds. 
   
-- Insert the smaller bucket into the larger one and fill it with weights untill it has a reasonable
+3. Insert the smaller bucket into the larger one and fill it with weights untill it has a reasonable
 distance from the bottom of the larger bucket. 
 
-  **Note:** Water can be used as weight but this is not advisible. If hot water is 
+    **Note:** Water can be used as weight but this is not advisible. If hot water is 
 needed to facilitate the removal of the smaller bucket the frozen water in the smaller container 
 will make it difficult
 
-- With ducktape make an X shape on top of the two buckets to keep the small bucket in place
+4. With ducktape make an X shape on top of the two buckets to keep the small bucket in place
 
-  <img src="../../media/images/culture/ice-lanterns/setup.jpg" width="333" />
+    <img src="../../media/images/culture/ice-lanterns/setup.jpg" width="333" />
 
-- Optionally add decorative material (such as spruce branches and pine branches)
+5. Optionally add decorative material (such as spruce branches and pine branches)
 
-  <p float="left">
-    <img src="../../media/images/culture/ice-lanterns/decorations_1.jpg" width="333" />
-    <img src="../../media/images/culture/ice-lanterns/decorations_2.jpg" width="333" />
-  </p>
+    <p float="left">
+      <img src="../../media/images/culture/ice-lanterns/decorations_1.jpg" width="333" />
+      <img src="../../media/images/culture/ice-lanterns/decorations_2.jpg" width="333" />
+    </p>
 
-- Depending on the temperature and size of the bucket, wait a couple of hours (ideally overnight when it's colder) and remove the ice from the containers.
+6. Depending on the temperature and size of the bucket, wait a couple of hours (ideally overnight when it's colder) and remove the ice from the containers.
 
-  If lightly hitting the container upside down to remove the ice does not work, insert the container in a bowl of warm water for a minute or two to help the ice unstick from the bucket. Ensure the water is not too hot - otherwise the ice might crack. 
+    If lightly hitting the container upside down to remove the ice does not work, insert the container in a bowl of warm water for a minute or two to help the ice unstick from the bucket. Ensure the water is not too hot - otherwise the ice might crack. 
 
-  Afterwards, optionally, use a blowdrier or a small torch to make the surface of the ice clearer. 
+    Afterwards, optionally, use a blowdrier or a small torch to make the surface of the ice clearer. 
 
-  <p float="left">
-    <img src="../../media/images/culture/ice-lanterns/final_all.jpg" width="500" />
-    <img src="../../media/images/culture/ice-lanterns/final_detail.jpg" width="500" />
-  </p>
+    <p float="left">
+      <img src="../../media/images/culture/ice-lanterns/final_all.jpg" width="500" />
+      <img src="../../media/images/culture/ice-lanterns/final_detail.jpg" width="500" />
+    </p>
+
 
 ### Single bucket
 An alternative method is to use a single bucket, fill it fully with water, and periodically verify the thickness of the ice. 
