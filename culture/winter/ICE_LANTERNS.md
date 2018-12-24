@@ -30,9 +30,7 @@ After the desired height has been achieved place candles inside the lantern
 
 ## Jäälyhty - Ice Lanterns
 
-***IMAGE***
-
-## Easy method
+### Easy method
 The easiest way to make an Ice lantern is to use 2 buckets, a large and smaller one.
 
 - Fill the larger bucket with water up to 2/3rds. 
@@ -42,13 +40,18 @@ distance from the bottom of the large bucket.
 - Optionally add decorative material (such as spruce branches and pine branches)
 
 <p float="left">
-  <img src="../../media/images/culture/ice-lanterns/materials.jpg" width="300" />
-  <img src="../../media/images/culture/ice-lanterns/setup.jpg" width="300" />
-  <img src="../../media/images/culture/ice-lanterns/decorations_1.jpg" width="300" />
-  <img src="../../media/images/culture/ice-lanterns/decorations_2.jpg" width="300" />
+  <img src="../../media/images/culture/ice-lanterns/materials.jpg" width="333" />
+  <img src="../../media/images/culture/ice-lanterns/decorations_1.jpg" width="333" />
+  <img src="../../media/images/culture/ice-lanterns/decorations_2.jpg" width="333" />
 </p>
 
-## Single bucket
+
+<p float="left">
+  <img src="../../media/images/culture/ice-lanterns/final_all.jpg" width="500" />
+  <img src="../../media/images/culture/ice-lanterns/final_detail.jpg" width="500" />
+</p>
+
+### Single bucket
 An alternative method is to use a metal bucket (or less ideally a plastic one), fill it with water, 
 and periodically verify the thickness of the ice. Ensure the core of the water stays liquid.
 
@@ -60,9 +63,17 @@ leading to the water to freeze from the walls of bucket towards the inside of th
 A plastic bucket works as well, but it will likely take longer, and have a larger ice layer on top of the bucket, which will have to be removed with a tool. This process needs to be done carefully in order not to break the newly
 created lantern
 
-## Spherical ice lanterns
+
+### Spherical ice lanterns
 Spherical lanterns can be achieved similarly to the the Single bucket method, but with a ballon instead of a 
 bucket. Fill a balloon with water and air. Leave the baloon outsite for long enough for ice to form in the ballon,
 but short enough so the water at the center remains liquid. 
 
 Puncture the balloon at the top where the air was left, and remove the ballon and the liquid water at the center.
+
+
+## Note on clear Ice
+Some people claim that the way to make clear ice is to boil the water before freezing. That is not accurate.
+Ice that is not clear has frozen unevenly - eg from outsite towards the inside. When the inside water freezes while being contained in the outside ice it expands in volume. Having nowhere to go it cracks the already formed outside ice. Air disolved in that water also has nowhere to go, so it ends up trapped in the inside ice making white instead of transparent. 
+
+The **only** solution to making clear ice is to ensure that the water freezes evenly (eg. from top to bottom of a container). This can be achieved by isolating the container on all sides except one, and having only that area exposed to cold. This has the disadvantage of taking significanltly longer to freeze a whole container. 
