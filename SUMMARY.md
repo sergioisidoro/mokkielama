@@ -26,6 +26,8 @@
 * [Spring]()
 
 ## Culture and leisure 
+* [Winter]()
+    * [Ice lanterns](./culture/winter/ICE_LANTERNS.md)
 * [Boating]()
 * [Sauna]()  
 * [Juhannus]()
