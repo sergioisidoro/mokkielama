@@ -49,6 +49,7 @@ will make it difficult
 
     <img src="../../media/images/culture/ice-lanterns/setup.jpg" width="333" />
 
+
 5. Optionally add decorative material (such as spruce branches and pine branches)
 
     <p float="left">
@@ -83,6 +84,9 @@ bucket. Fill a balloon with water and bit of air. Leave the baloon outsite for l
 but short enough so the water at the center remains liquid. 
 
 Puncture the balloon at the top where the air was left, and remove the ballon and the liquid water at the center.
+
+## Note on candles
+Do not use candles with metal encasing, or use them with a ceramic plate. the metal will easily melt through the ice when the candle is lit.
 
 ## Note on clear Ice
 Some people claim that the way to make clear ice is to boil the water before freezing. That is not accurate.
