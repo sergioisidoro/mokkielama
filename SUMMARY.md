@@ -4,6 +4,8 @@
 * [Structure]()
 * [Water]()
 * [Energy and Fire]()
+    * [Firewood](./basics/energy/FIREWOOD.md)
+    * [Starting a fire](./basics/energy/STARTING_FIRE.md)
 * [Health and Safety]()
 
 ## Food
