@@ -12,17 +12,29 @@ during Christmas.
 
 ## Lumilyhty - Snow lanterns
 
-***IMAGE***
+<img src="../../media/images/culture/ice-lanterns/snow_lantern.jpg" width="500" />
+
+Snow laterns are extremely easy to make and activity to make with kids.
 
 In order to make a snow lanter, the snow conditions need to be favorable to making snow balls - Ideally 
 nuoska type - packing snow (See snow types). If it's too cold and the snow is too dry the snowballs 
 won't hold. 
 
-Make snowballs of a reasonable size and lay them on the ground in a circle with a bit of space in between.
-Add new layer of snowballs in a "chess" like pattern, while leaning the balls closer to the center the higer 
-you go.
+1. Make snowballs of about the size of a fist (or smaller) and lay them on the ground in a circle with a bit of space in between.
 
-After the desired height has been achieved place candles inside the lantern
+    <img src="../../media/images/culture/ice-lanterns/snow_building_1.jpg" width="500" />
+
+2. Add new layer of snowballs in between the snowballs of the first layer.
+
+    <img src="../../media/images/culture/ice-lanterns/snow_building_2.jpg" width="500" />
+
+3. Repat the process untill desired height is achieved. As you go up, try to make the snoballs smaller and place them closer to the center, so that the radius of the top of the lanter will be smaller than the base
+
+    <img src="../../media/images/culture/ice-lanterns/snow_building_3.jpg" width="500" />
+
+4. After the desired height has been achieved place candles inside the lantern
+
+    <img src="../../media/images/culture/ice-lanterns/snow_building_final.jpg" width="500" />
 
 ## Jäälyhty - Ice Lanterns
 
@@ -48,6 +60,7 @@ will make it difficult
 4. With ducktape make an X shape on top of the two buckets to keep the small bucket in place
 
     <img src="../../media/images/culture/ice-lanterns/setup.jpg" width="333" />
+
 
 5. Optionally add decorative material (such as spruce branches and pine branches)
 
@@ -83,6 +96,9 @@ bucket. Fill a balloon with water and bit of air. Leave the baloon outsite for l
 but short enough so the water at the center remains liquid. 
 
 Puncture the balloon at the top where the air was left, and remove the ballon and the liquid water at the center.
+
+## Note on candles for Ice lanterns
+Do not use candles with metal encasing on ice lanterns or use them with a ceramic plate. the metal will easily melt through the ice when the candle is lit.
 
 ## Note on clear Ice
 Some people claim that the way to make clear ice is to boil the water before freezing. That is not accurate.
