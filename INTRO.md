@@ -1,6 +1,8 @@
+  Book progress: ◼▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ 1%
+
 # Mökki Elämä for foreigners
 
-  current progress: ◼▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ 0%
+<img src="./media/images/misc/cover.jpg" width="500" />
 
 ## Background
 I have arrived to Finland in mid-2014. I came as an exchange student but, similarly to many other expatriates, one thing lead to another resulting in me making Finland my home country .
