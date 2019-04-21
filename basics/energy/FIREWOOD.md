@@ -17,7 +17,7 @@ The three most common in Finnish trees have the following heat content per kilo,
 Birch, being extremely common, is only beaten by Ash trees, Beech, Oak and Robia tress in terms of heat content. This makes birch the obvious choice for most people
 in Finland, depending on the regional forest composition. But both Pine and Spruce have reasonable energy content and are suitable for use for firewood.
 
-### Moisture content
+## Moisture content
 Moisture is obviously an enemy for igniting wood, but it also presents a major
 inefficiency and waste of energy.
 
@@ -52,23 +52,29 @@ This means considering the following factors:
 * Maximise the amount of summer months the wood will have to dry
 * Use the tree leaves to evaporate moisture if impossible to cut the tree in appropriate schedule
 
-![Moisture content](../../media/images/basics/energy/moisture_content_year.png)
+<img src="../../media/images/basics/energy/moisture_content_year.png" width="400" alt="Moisture content"/>
 
 The moisture content of deciduous trees (trees that shed leaves annually, like birch) peaks from April and May. These are the months after the snow has melted and the trees prepare for the rapid growth in spring. **We want to avoid these months most of all.** Note that evergreen trees differ less in moisture content throughout the year.
 
-#### Winter harvest
+### Winter harvest
 
 The best months to dry wood are the summer months (April to July). To leverage these months the most, **trees should be cut down during the winter months, stored as straight long logs, and chopped in early spring to speed up the drying process**. The look and appearance of the firewood will also be the best if this method is used (assuming the wood is sheltered from rain)
 
-If it is not possible to chop the logs in the spring after the winter harvest, the bark should be broken or peeled into strips, for example with a chainsaw, during the harvesting process. This facilitates the drying during the spring.
+If it is not possible to chop the logs in the spring after the winter harvest, **the bark should be broken or peeled into strips**, for example with a chainsaw, during the harvesting process. This facilitates the drying during the spring.
 
-#### Leaf seasoning
+<p float="left">
+  <img src="../../media/images/basics/energy/debarking_1.jpg" width="300" />
+  <img src="../../media/images/basics/energy/debarking_2.jpg" width="300" />
+  <img src="../../media/images/basics/energy/debarking_3.jpg" width="300" />
+</p>
+
+### Leaf seasoning
 
 If it not possible to harvest firewood in the winter months, or if the purpose is to produce wood for the following year, the trees can be cut down by leaf seasoning. This means cutting down trees that already have leaves and letting them dry while intact in a cleared forest.
 
 The living leaves make the tree lose moisture content through evaporation. The tree will dry up to the saturation point of the cells (when the leaves eventually fall), which represents 27 to 30% moisture content in Finnish tree species. After the leaves fall down, the tree can be transported and chopped for further drying.
 
-#### Drying
+## Drying
 Wood that is cut during winter, chopped in early spring (May, the latest),
 and stored appropriately through a good summer can be sufficiently dry for use
 in the autumn. However it is advisable that wood supplies of one year are harvested
@@ -80,7 +86,7 @@ as the high content in moisture and low exposure will foster the growth of fungi
 and other rotting agents. Decomposition will already be visible in the second summer
 after the tree has been harvested.
 
-![Log decomposition](../../media/images/basics/energy/log_decomposition.jpg)
+<img src="../../media/images/basics/energy/log_decomposition.jpg" width="300" />
 
 **The second factor is weather and rain.** If not sheltered appropriately logs
 will absorb rainwater, which will slowdown or even revert the drying process.
@@ -101,10 +107,16 @@ You can tell if wood is appropriately dry if:
 * The wood is significantly lighter
 * Ignites easily, and does not smoulder (smoke but no fire)
 
+## Dry Storage
 
-#### Dry Storage
+### Elevation.
+The storage of wood should be elevated from the ground. This prevents
+the moisture from the ground to rise, enhances air
+circulation under the woodpile, and to prevent rainwater to pool around it.
 
-##### Stacking vs Piling
+Elevation can be achieved, for example, using wood pallets
+
+### Post-chopping storage - Stacking vs Piling
 Is it really worth the effort to neatly stacking wood? and if yes, how worth is it?
 
 According to the [Manual for Firewood production](), a neatly packed
@@ -116,12 +128,6 @@ then **yes**.
 **So far we have not found significant information regarding
 drying effectiveness of stacking vs lose piles of wood**
 
-##### Elevation.
-The storage of wood should be elevated from the ground. This prevents
-the moisture from the ground to rise, enhances air
-circulation under the woodpile, and to prevent rainwater to pool around it.
-
-Elevation can be achieved, for example, using wood pallets
 
 ## Chopping wood
 
@@ -130,3 +136,6 @@ Elevation can be achieved, for example, using wood pallets
 ### The tire method
 
 ### The hammer method
+
+
+## Before burn storage
