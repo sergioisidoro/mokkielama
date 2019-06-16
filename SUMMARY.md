@@ -3,6 +3,7 @@
 ## Basics
 * [Structure]()
 * [Water]()
+    * [Well](./basics/water/WELL_BASICS.md)
 * [Energy and Fire]()
     * [Firewood](./basics/energy/FIREWOOD.md)
     * [Starting a fire](./basics/energy/STARTING_FIRE.md)
@@ -27,11 +28,11 @@
 * [Winter]()
 * [Spring]()
 
-## Culture and leisure 
+## Culture and leisure
 * [Winter]()
     * [Ice lanterns](./culture/winter/ICE_LANTERNS.md)
 * [Boating]()
-* [Sauna]()  
+* [Sauna]()
 * [Juhannus]()
 * [Games]()
 * [Fauna and Flora]()
